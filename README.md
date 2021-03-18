@@ -6,3 +6,6 @@ In this project we are planning to create a dashboard that predict the salary wh
 Dataset
 Loaded CSV file containing 14 features like age, workclass, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country, salary
 The dataset contains several numerical and categorical columns providing various information
+# Conclusion
+Out of several algorithms, I got the best model as Gradient Boosting with an accuracy of 87.2% after performing hyper tuning parameter 
+![image](https://user-images.githubusercontent.com/79462862/111576713-715d1000-87ca-11eb-9006-d86d0aadc9dd.png)
